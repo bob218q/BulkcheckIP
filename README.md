@@ -1,2 +1,11 @@
-# Bulkcheck-IP-by-BOB
-Script for running bulk checks via https://www.abuseipdb.com/. Available in Powershell with WinForms GUI, Python with Tkinter GUI and BASH.
+## Bulkcheck
+
+Powershell or Python script with a GUI for mass-checking IP addresses against the AbuseIPDB database. Input a CSV list of IP addresses (one per line) and return a CSV-formatted report with abuse report information, country code, ISP and domain of each IP checked.
+
+You will need an API key from the AbuseIP Database, available for free at (https://www.abuseipdb.com/account/api).
+
+<b>Special thanks to:</b> <br>
+[AbuseIPDB](https://abuseipdb.com) <br>
+[PoshGUI](https://poshgui.com) <br>
+
+PS: New feature requests and feedback are welcome.
