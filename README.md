@@ -1,4 +1,4 @@
-## Bulkcheck
+# Bulkcheck
 
 Powershell or Python script with a GUI for mass-checking IP addresses against the AbuseIPDB database. Input a CSV list of IP addresses (one per line) and return a CSV-formatted report with abuse report information, country code, ISP and domain of each IP checked.
 
