@@ -6,8 +6,8 @@ Powershell or Python script with a GUI for mass-checking IP addresses against th
 
 You will need an API key from the AbuseIP Database, available for free at (https://www.abuseipdb.com/account/api).
 
-# To use script: 
-1 > <b>Download</b> 
+## To use script: 
+#### Download:
 <img width="620" alt="1" src="https://github.com/bob218q/BulkcheckIP/assets/73669069/10a2cab0-b9d8-4dd9-aef9-063d94409125"> 
 2 > <b>Unzip a folder</b> 
 <img width="703" alt="Screenshot 2024-05-06 220553" src="https://github.com/bob218q/BulkcheckIP/assets/73669069/f946c8bf-34aa-4a0a-aac2-d9e0959d253c"> 
